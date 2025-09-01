@@ -137,7 +137,7 @@ Contributions are welcome! Please fork the repo, create a feature branch, and su
 # 📧 Contact
 
 For queries or collaboration, reach out at:
-**Sharief sk** – \shariefsk60@gmail.com – \https://www.linkedin.com/in/sharief-sk-24911928a
+**Sharief sk** – shariefsk60@gmail.com – https://www.linkedin.com/in/sharief-sk-24911928a
 
 ---
 
